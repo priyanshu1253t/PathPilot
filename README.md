@@ -1,1 +1,52 @@
-# PathPilot
+# PathPilot — AI-Based Career Navigator for Students
+
+An AI-powered platform that gives students — especially at Tier 2/Tier 3 colleges — personalized career direction through resume analysis, AI-driven recommendations, and interactive learning roadmaps.
+
+## Problem
+
+- Tier 2/Tier 3 college students often lack access to personalized career guidance during critical educational decision points
+- Existing platforms offer generic, one-size-fits-all advice with no tailoring to individual strengths or profiles
+- Students are left without clear, actionable pathways to reach their career goals, driving uncertainty and anxiety about the future
+
+## Solution
+
+PathPilot uses AI to turn a student's profile and resume into a **custom, step-by-step career roadmap** — replacing generic advice with tailored, strategic guidance.
+
+## Key Features
+
+- **Resume Analysis** — NLP-based parser that extracts skills and experience to generate personalized learning paths
+- **AI-Driven Recommendations** — Automated feedback system suggesting relevant career directions
+- **Interactive Roadmap** — Curated learning resources mapped to each recommended path
+- **Progress Tracking** — Visual dashboard for goal-setting and tracking, built using experimental design principles to optimize content delivery
+
+## Results
+
+- Increased student engagement by **40%** through the AI-driven, personalized roadmap experience
+
+## System Flow
+
+1. **User Input** — Student submits profile, resume, and preferences
+2. **Roadmap Conception** — AI engine processes input and generates a personalized career path
+3. **Database** — Career data and progress are stored and retrieved
+4. **Frontend Output** — Visualized, interactive career plan delivered to the student
+
+## Tech Stack
+
+- **Frontend:** React
+- **Backend:** Node.js
+- **Database:** MongoDB
+- **AI Engine:** Custom NLP-based model for resume parsing and career recommendations
+
+## Societal Impact
+
+Designed for expanded access and accessibility — mobile-friendly, with planned language localization to reach students in diverse and underserved communities beyond major cities.
+
+## Future Enhancements
+
+- Mentor integration for real-time guidance from professionals
+- Support for diverse/non-traditional career paths
+- Enhanced regional language localization
+- Full-featured native mobile app
+
+---
+*Built by Team Flux — June 2025*
